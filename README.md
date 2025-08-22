@@ -1,0 +1,4 @@
+- Next feature on free time:
+	- make drawing tool only draw when left click is held
+	- choose pencil color from a dropdown menu 
+		- color pallette
