@@ -1,5 +1,6 @@
 - Next feature on free time:
 	- Implement event delegation rather than registering event for each cell, but register even for the parent(grid);
+		- and see if there are any performance improvements
 	- make drawing tool only draw when left click is held
 	- choose pencil color from a dropdown menu 
 		- color pallette
